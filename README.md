@@ -1,4 +1,4 @@
-# SafaiWallah
+<img width="350" height="710" alt="image" src="https://github.com/user-attachments/assets/750cacee-cfac-419b-9616-6701588887a0" /># SafaiWallah
 SafaiWallah is a web-based cleaning service management application developed to simplify the process of booking home and office cleaning services online. The platform allows users to register, book cleaning services, make online payments, track service history, and provide ratings and feedback.
 The system also includes an admin panel where administrators can manage bookings, assign workers based on service requests, and monitor overall service activities.
 
